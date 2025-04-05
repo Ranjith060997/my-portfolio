@@ -163,7 +163,7 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
               Education
             </NavLink>
-            <GithubButton
+            {/*<GithubButton
               href={Bio.github}
               target="_Blank"
               style={{
@@ -172,7 +172,7 @@ const Navbar = () => {
               }}
             >
               Github Profile
-            </GithubButton>
+            </GithubButton>*/}
           </MobileMenu>
         )}
 
