@@ -176,10 +176,28 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHvjG5b_zox8g/company-logo_200_200/B56ZXwJewmHQAI-/0/1743490773321/xfactrai_logo?e=1753315200&v=beta&t=jlwuXqME3ROROUh8Gy_GCMtBRpSWAg9vCIX-CR7CxVg",
+    role: "Senior Software Engineer",
+    company: "Xfactr.ai",
+    date: "May 2025 - Present",
+    desc: `
+ I’m deployed as a React Native Developer directly collaborating with Schneider Electric’s engineering team. My role involves developing and maintaining cross-platform mobile applications tailored to Schneider’s digital solutions. I work closely with product owners and backend teams to deliver robust, high-performance apps with a focus on user experience, scalability, and native integrations. I also contribute to optimizing build pipelines, ensuring smooth deployment across Android and iOS platforms, and aligning development efforts with Schneider Electric’s global digital strategy.
+    `,
+    skills: [
+      "JS",
+      "React",
+      "React Native",
+      "Android and iOS Development",
+      "TypeScript",
+    ],
+    doc: "https://xfactr.ai/wp-content/uploads/2021/11/xfactr.png",
+  },
+  {
+    id: 1,
     img: "https://enhancesys-files.s3.ap-south-1.amazonaws.com/uploads/public/669/0f7/04e/6690f704ef3e8335420923.png",
     role: "Software Engineer",
     company: "Enhancesys Innovations Pvt Ltd",
-    date: "May 2022 - Present",
+    date: "May 2022 - May 2025",
     desc: `
 Over the past four years, I have been deeply involved in analyzing user requirements, designing intuitive interfaces, and developing robust features using JavaScript, Java, and related technologies. My focus has been on building scalable and maintainable applications that ensure long-term software stability. Currently, I lead a team of 9 developers, driving the development of cross-platform mobile applications with React Native. Managing 7 projects simultaneously—5 support and 2 ongoing—I ensure smooth project execution while delivering high-quality solutions.
     `,
@@ -187,7 +205,7 @@ Over the past four years, I have been deeply involved in analyzing user requirem
     doc: "https://enhancesys.com/storage/temp/public/986/5c3/99d/enhancesyslogo__834.png",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://enhancesys-files.s3.ap-south-1.amazonaws.com/uploads/public/669/0f7/04e/6690f704ef3e8335420923.png",
     role: "Graduate Engineer Trainee",
     company: "Enhancesys Innovations Pvt Ltd",

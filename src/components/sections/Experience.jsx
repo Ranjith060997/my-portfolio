@@ -59,11 +59,18 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-          My experience at Enhancesys Innovations includes working as a Graduate
-          Engineer Trainee and later as a Software Engineer. Over the years, I
-          have contributed to multiple projects, developed scalable
-          applications, led a team, and delivered high-quality software
-          solutions
+          I began my career at Enhancesys Innovations, where I progressed from a
+          Graduate Engineer Trainee to a Software Engineer. During this time, I
+          contributed to the development of scalable applications across
+          multiple projects and took on leadership responsibilities to drive
+          high-quality software delivery. Currently, I’m working at Xfactr.ai,
+          where I serve as a React Native Developer directly collaborating with
+          the client Schneider Electric. In this role, I’m responsible for
+          building cross-platform mobile solutions that align with Schneider’s
+          digital transformation goals. I work closely with client-side
+          stakeholders to ensure seamless app functionality, native feature
+          integration, and performance optimization across Android and iOS
+          platforms
         </Desc>
 
         <VerticalTimeline>
